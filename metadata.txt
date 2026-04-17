@@ -1,0 +1,23 @@
+[general]
+name=ArchaeoTerrainExplorer
+qgisMinimumVersion=4.00
+qgisMaximumVersion=4.99
+version=1.0.0
+author=Dr. Geol. Faustino Cetraro
+email=geol-faustino@libero.it
+about=Interactive micro‑topographic explorer for archaeological anomaly detection using DEM, LiDAR and photogrammetry. Provides real‑time slope, curvature, LRM, hillshade, openness, SVF, MSRM and archaeological presets on a local 256×256 DEM window, with single‑filter modes, scan‑mode preview and dynamic refresh.
+
+category=Raster
+icon=icons/icon.png
+tags=archaeology,terrain,DEM,LiDAR,LRM,curvature,slope,hillshade,openness,SVF,MSRM,analysis,microtopography,geomorphology
+
+homepage=https://github.com/drFaustino/ArchaeoTerrainExplorer
+tracker=https://github.com/drFaustino/ArchaeoTerrainExplorer
+repository=https://github.com/drFaustino/ArchaeoTerrainExplorer
+
+experimental=False
+deprecated=False
+hasProcessingProvider=False
+
+description=ArchaeoTerrain Explorer is an interactive micro‑topographic analysis tool designed for archaeological prospection. The plugin extracts a 256×256 DEM window around the clicked point and computes real‑time terrain metrics including slope, curvature (profile, plan, total), Local Relief Model (LRM), hillshade, openness (positive/negative), Sky‑View Factor (SVF), and Multi‑Scale Relief Model (MSRM). It offers both composite and single‑filter visualization modes (Slope, Curvature, LRM, Hillshade, Openness+, Openness‑, SVF, MSRM), along with archaeological presets such as Archaeo‑Enhance 1 (LRM + openness), Archaeo‑Enhance 2 (SVF + curvature), Anthropic Edge Detector, and Paleochannel Finder. Features include scan‑mode preview, a recompute‑preview button for the same point when changing filters, customizable parameters, colormap selection, a dynamic progress bar, and export to GeoTIFF or PNG.
+
