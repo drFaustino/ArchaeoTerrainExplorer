@@ -149,3 +149,7 @@ Geologist, scientific communicator, and developer of geomorphological tools for 
 
 See [`CHANGELOG.md`](CHANGELOG.md) for full version history.  
 Version **1.0.0** corresponds to the **first public release (initial version 1.0)**.
+
+## Interface
+
+<img width="1160" height="811" alt="img1" src="https://github.com/user-attachments/assets/07aa8e16-3fe9-4f52-abb4-eedd5c47a37a" />
